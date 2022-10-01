@@ -1,7 +1,9 @@
- ## Android | First project
+# Android
+---
+## First project
 
-It is my first android application. I didn't even use the databases :D
+This is my **first project**, where the next goal was: **to learn a new technology in the shortest possible time**. Developed an application where you could **register** and **log in**.
 
-1) Account I saved in array
-2) UI is very easy
-3) It is WORK!!!!
+## Result:
+- Got an interesting experience
+- I was able to take a course on android development
